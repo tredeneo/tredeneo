@@ -1,7 +1,7 @@
 # Entusiasta do terminal TUI > GUI
 
 ## Repositorios destaques
-* [projetos e trabalhos feito para a faculdade](https://github.com/tredeneo/utfpr) majoritoriamente em C e os que não são em JAVA nem C foi tentando evitar JAVA
+* [projetos e trabalhos feito para a faculdade](https://github.com/tredeneo/utfpr) majoritoriamente em C e os que são em JAVA e C, não teve escolha de optar por outra
 
 * [configuraçoes pessoais de programas e scripts](https://github.com/tredeneo/utfpr) incluindo [neovim](https://github.com/tredeneo/configs/tree/main/neo%20vim), [vim](https://github.com/tredeneo/configs/tree/main/vim), doom emacs, e um [Makefile generico](https://github.com/tredeneo/configs/blob/main/Makefile)
 
