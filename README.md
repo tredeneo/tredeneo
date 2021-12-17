@@ -21,10 +21,6 @@
 ### flutter
 interesse por usar apenas linguagem de programação sem necessidade de linguagens de marcação e pelo mesmo codigo servir para diversas plataformas
 
-<a href="https://github.com/tredeneo/flutter_exchange_rate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=flutter_exchange_rate&theme=dark&langs_count=7&layout=default" />
-</a>
-
 <a href="https://github.com/tredeneo/CRUD-flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=CRUD-flutter&theme=dark&langs_count=7" />
 </a>
