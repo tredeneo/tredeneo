@@ -1,5 +1,3 @@
-# Entusiasta do terminal TUI > GUI
-
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tredeneo&hide=prs&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tredeneo&hide=lua,yacc&layout=compact&show_icons=true&theme=dark)
