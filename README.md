@@ -14,8 +14,12 @@
  <a href="https://github.com/tredeneo/porcentage_language_dir">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=porcentage_language_dir&theme=dark&langs_count=7" />
 </a>
-  
+
 ## Repositorios aprendizado
+### geral
+  <a href="https://github.com/tredeneo/hacker_rank">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=porcentage_language_dir&theme=dark&langs_count=7" />
+</a>
 ### flutter
 interesse por usar apenas linguagem de programação sem necessidade de linguagens de marcação e pelo mesmo codigo servir para diversas plataformas
 
