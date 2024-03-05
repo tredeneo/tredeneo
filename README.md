@@ -21,12 +21,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=hacker_rank&theme=dark&langs_count=7" />
 </a>
 
-### flutter
-interesse por usar apenas linguagem de programação sem necessidade de linguagens de marcação e pelo mesmo codigo servir para diversas plataformas
-
-<a href="https://github.com/tredeneo/CRUD-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=CRUD-flutter&theme=dark&langs_count=7" />
-</a>
 
 # sobre mim
 [Linkedin](https://www.linkedin.com/in/daniel-de-viveiros/)
