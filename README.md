@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=configs&theme=dark&langs_count=7" />
 </a>
 
- <a href="https://github.com/tredeneo/porcentage_language_dir">
+ <a href="https://github.com/tredeneo/simple-inventary-management">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tredeneo&repo=porcentage_language_dir&theme=dark&langs_count=7" />
 </a>
 
